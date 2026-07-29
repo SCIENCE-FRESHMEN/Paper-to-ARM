@@ -1,4 +1,4 @@
-# NEURONCLAW A Track: Paper-to-ARM Orchestrator
+Paper-to-ARM Orchestrator
 
 This project is a runnable Paper-to-ARM prototype for the A track. It turns one to five neuroscience paper text files into a structured `full_arm` package plus a replayable `trace_record`.
 
